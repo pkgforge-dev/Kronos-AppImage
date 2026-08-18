@@ -7,7 +7,7 @@
 [![Latest Stable Release](https://img.shields.io/github/v/release/pkgforge-dev/Kronos-AppImage)](https://github.com/pkgforge-dev/Kronos-AppImage/releases/latest)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/FCare/Kronos/refs/heads/extui-align/yabause/src/port/logo.png" width="128" />
+  <img src="https://raw.githubusercontent.com/FCare/Kronos/refs/heads/extui-align/yabause/src/port/logo.ico" width="128" />
 </p>
 
 
